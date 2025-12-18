@@ -1,24 +1,24 @@
 <script lang="ts">
-    let activeTab: 'clinicians' | 'revenue' | 'nurses' = 'clinicians';
+    let activeTab: 'feedback' | 'reputation' | 'analytics' = 'feedback';
 
-    const tabs: { id: 'clinicians' | 'revenue' | 'nurses', label: string }[] = [
-        { id: 'clinicians', label: 'Clinicians' },
-        { id: 'revenue', label: 'Revenue Cycle' },
-        { id: 'nurses', label: 'Nurses' }
+    const tabs: { id: 'feedback' | 'reputation' | 'analytics', label: string }[] = [
+        { id: 'feedback', label: 'NPS Feedback' },
+        { id: 'reputation', label: 'Reputation Management' },
+        { id: 'analytics', label: 'AI Analytics' }
     ];
 
     const content = {
-        clinicians: {
-            title: 'Clinicians',
-            description: 'Contextually aware, clinically useful, and billable AI-generated notes — in real time',
+        feedback: {
+            title: 'NPS Feedback',
+            description: 'Automated NPS surveys delivered at the perfect moment after each customer interaction. Real-time alerts let you respond to concerns before they become cancellations.',
         },
-        revenue: {
-            title: 'Revenue Cycle',
-            description: 'Streamline coding and billing with AI that understands clinical context and documentation requirements.',
+        reputation: {
+            title: 'Reputation Management',
+            description: 'Manage your online presence across 100+ directories. Turn satisfied customers into 5-star reviews and maintain consistent brand reputation across all locations.',
         },
-        nurses: {
-            title: 'Nurses',
-            description: 'Reduce documentation burden and focus more on patient care with automated nursing notes.',
+        analytics: {
+            title: 'AI Analytics',
+            description: 'Listen360 AI analyzes thousands of customer comments to identify trends, sentiment patterns, and growth opportunities — quantifying insights that drive action.',
         }
     };
 </script>
@@ -46,11 +46,11 @@
                     </button>
                     
                     {#if activeTab === tab.id}
-                        <div class="pl-4 border-l-2 border-[#FF4438] mt-2 mb-8 animate-in fade-in slide-in-from-left-2 duration-300">
+                        <div class="pl-4 border-l-2 border-[#FF8300] mt-2 mb-8 animate-in fade-in slide-in-from-left-2 duration-300">
                             <p class="text-lg text-gray-600 mb-8 max-w-md">
                                 {content[tab.id].description}
                             </p>
-                            <a href="/" class="inline-block border border-[#FF4438] text-[#FF4438] text-[11px] font-bold tracking-widest uppercase px-8 py-4 hover:bg-[#FF4438] hover:text-white transition-colors">
+                            <a href="/" class="inline-block border border-[#FF8300] text-[#FF8300] text-[11px] font-bold tracking-widest uppercase px-8 py-4 hover:bg-[#FF8300] hover:text-white transition-colors">
                                 LEARN MORE
                             </a>
                         </div>

@@ -14,9 +14,10 @@
 	--color-gray-900: oklch(0.216 0.006 56.043);
 	--color-gray-950: oklch(0.147 0.004 49.25);
 
-    --color-abridge-red: #FF4438;
-    --color-abridge-beige: #F4F2EF;
-    --color-abridge-black: #1A1A1A;
+    --color-listen360-orange: #FF8300;
+    --color-listen360-red: #EB0029;
+    --color-listen360-beige: #F4F2EF;
+    --color-listen360-black: #1A1A1A;
 
 	--font-sans: "Inter", sans-serif;
 	--font-serif: "Instrument Serif", serif;
@@ -30,7 +31,7 @@
 
 body {
     font-family: var(--font-sans);
-    color: var(--color-abridge-black);
+    color: var(--color-listen360-black);
     -webkit-font-smoothing: antialiased;
 }
 

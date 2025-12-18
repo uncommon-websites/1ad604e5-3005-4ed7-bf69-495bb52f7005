@@ -12,7 +12,7 @@
     import Footer from "$lib/components/Footer.svelte";
 </script>
 
-<div class="min-h-screen bg-white font-sans text-black selection:bg-[#FF4438] selection:text-white">
+<div class="min-h-screen bg-white font-sans text-black selection:bg-[#FF8300] selection:text-white">
     <Header />
     <main>
         <Hero />

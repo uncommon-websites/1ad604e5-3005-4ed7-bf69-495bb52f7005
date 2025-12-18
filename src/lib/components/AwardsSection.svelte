@@ -1,126 +1,96 @@
 <section class="py-24 max-w-[1400px] mx-auto px-6">
     <div class="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
-        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500">AWARDS</div>
+        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500">TESTIMONIALS</div>
         <h2 class="text-[3.5rem] leading-[1] font-serif max-w-2xl text-right">
-            Recognized for Contributions in Healthcare
+            What Our Customers Say
         </h2>
     </div>
 
     <div class="grid lg:grid-cols-3 gap-8">
-        <!-- Main Award Card -->
+        <!-- Main Testimonial Card -->
         <div class="lg:col-span-1 bg-[#F4F2EF] p-10 flex flex-col justify-between min-h-[500px] relative overflow-hidden group">
             <div>
-                <div class="flex justify-between items-start mb-8">
-                     <!-- Badge -->
-                    <div class="w-24 h-24 rounded-full border border-gray-300 flex items-center justify-center relative bg-white shadow-sm">
-                        <div class="text-center">
-                           <div class="text-[6px] font-bold tracking-widest uppercase mb-0.5">BEST IN</div>
-                           <div class="text-sm font-serif font-bold text-[#D4AF37]">KLAS</div>
-                           <div class="text-[4px] uppercase tracking-wide mt-0.5">AMBIENT SPEECH</div>
-                           <div class="text-[8px] font-bold mt-0.5">2025</div>
-                        </div>
-                   </div>
-                   <a href="#" class="text-[10px] font-bold tracking-widest uppercase text-[#FF4438] flex items-center gap-1 hover:gap-2 transition-all">
-                        Download <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                   </a>
+                <div class="mb-8">
+                   <svg width="48" height="48" viewBox="0 0 24 24" fill="none" class="text-[#FF8300] mb-6">
+                       <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" fill="currentColor"/>
+                   </svg>
                 </div>
                 
-                <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-4">BEST IN KLAS 2025 SOFTWARE & SERVICE REPORT</div>
-                <h3 class="text-4xl font-serif leading-tight">
-                    Abridge Named Market Leader in Ambient AI KLAS Report
+                <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-4">TOM WALTERS, PRESIDENT</div>
+                <h3 class="text-2xl font-serif leading-tight mb-6">
+                    "Listen360 helps us truly understand how the customer views our service quality. The daily email recaps allow us to respond to concerns quickly."
                 </h3>
+                <div class="text-sm text-gray-600">Western Pest Services (Orkin)</div>
             </div>
         </div>
 
-        <!-- Smaller Awards Grid -->
+        <!-- Smaller Testimonials Grid -->
         <div class="lg:col-span-2 grid md:grid-cols-2 gap-px bg-gray-200 border border-gray-200">
-            <!-- Fast Company -->
-            <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-serif font-bold text-xl mb-4">FAST COMPANY</div>
+            <!-- FASTSIGNS -->
+            <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-xl mb-4">FASTSIGNS</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">#1 Most Innovative in Healthcare by Fast Company</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">"We found a solution that provided broader capabilities to help franchisees improve how they engage with customers and ensure our high service standards were being met."</p>
+                    <div class="text-xs font-bold text-gray-500">CHUCK KAYLOR, DIRECTOR OF MARKETING SERVICES</div>
                 </div>
-            </a>
+            </div>
 
-            <!-- TIME -->
-            <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-serif font-bold text-3xl mb-4">TIME</div>
+            <!-- TruGreen -->
+            <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-xl mb-4">TruGreen</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">TIME Best Inventions</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">"The magic is that AI tools like ChatGPT are not very good at quantifying data. Listen360 AI's power comes from being able to tell those data stories."</p>
+                    <div class="text-xs font-bold text-gray-500">JAMES BAUMAN, SENIOR DIRECTOR</div>
                 </div>
-            </a>
+            </div>
 
-            <!-- Forbes -->
-            <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-serif font-bold text-2xl mb-4">Forbes</div>
+            <!-- Industry Focus -->
+            <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-2xl mb-4">Home Services</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">Forbes AI 50</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">Trusted by ServiceMaster, Terminix, Culligan, and other leading home service franchises</p>
                 </div>
-            </a>
+            </div>
 
-            <!-- Business Insider -->
-            <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-sans font-bold text-sm tracking-tight mb-4 uppercase">Business<br>Insider</div>
+            <!-- Industry Focus -->
+            <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-2xl mb-4">Fitness & Wellness</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">Business Insider 2024 AI Power List</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">Powering customer experience for Orangetheory Fitness, Planet Fitness, CorePower Yoga, and Title Boxing</p>
                 </div>
-            </a>
+            </div>
 
-             <!-- Modern Healthcare -->
-             <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-sans font-bold text-sm tracking-tight mb-4 uppercase">Modern<br>Healthcare</div>
+             <!-- Industry Focus -->
+             <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-2xl mb-4">Children's Services</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">100 Most Influential People in Healthcare</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">Supporting Camp Bow Wow, i9 Sports, Mathnasium, Kiddie Academy, and Soccer Shots</p>
                 </div>
-            </a>
+            </div>
 
-             <!-- Fortune -->
-             <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-serif font-bold text-xl mb-4 uppercase">Fortune</div>
+             <!-- Stat -->
+             <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-xl mb-4">Since 2008</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">Fortune 50 AI Innovators</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">Over 15 years helping multi-location brands measure and improve customer loyalty through NPS feedback</p>
                 </div>
-            </a>
+            </div>
             
-             <!-- TIME 2 -->
-             <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-serif font-bold text-3xl mb-4">TIME</div>
+             <!-- Stat -->
+             <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-xl mb-4">EverCommerce</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">Shiv Rao: 100 Most Influential People in AI in 2024</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">Acquired in 2018, joining a portfolio of SaaS solutions supporting millions of customers worldwide</p>
                 </div>
-            </a>
+            </div>
 
-             <!-- Forbes 2 -->
-             <a href="#" class="bg-white p-8 hover:bg-gray-50 transition-colors group flex flex-col justify-between h-64">
-                <div class="font-serif font-bold text-2xl mb-4">Forbes</div>
+             <!-- Stat -->
+             <div class="bg-white p-8 flex flex-col justify-between h-64">
+                <div class="font-serif font-bold text-xl mb-4">Managed Services</div>
                 <div>
-                    <p class="text-gray-600 mb-4 group-hover:text-black transition-colors">Cloud 100 Lists</p>
-                    <div class="w-6 h-6 rounded-full border border-gray-300 flex items-center justify-center group-hover:border-black transition-colors">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform -rotate-45 group-hover:rotate-0 transition-transform"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                    </div>
+                    <p class="text-gray-600 mb-4">Custom, white-glove reputation management services launched in 2023 for enterprise brands</p>
                 </div>
-            </a>
+            </div>
         </div>
     </div>
 </section>

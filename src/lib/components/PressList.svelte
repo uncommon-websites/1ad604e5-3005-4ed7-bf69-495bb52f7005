@@ -2,11 +2,11 @@
     <div class="grid lg:grid-cols-3 gap-16">
         <!-- Left Header -->
         <div class="lg:col-span-1">
-            <h2 class="text-[3.5rem] leading-[1] font-serif text-[#FF4438] mb-8">
-                Abridge in the Press
+            <h2 class="text-[3.5rem] leading-[1] font-serif text-[#FF8300] mb-8">
+                Listen360 News
             </h2>
             <a href="#" class="inline-block border border-black text-black text-[11px] font-bold tracking-widest uppercase px-8 py-3 hover:bg-black hover:text-white transition-colors rounded-full">
-                ALL PRESS
+                ALL NEWS
             </a>
         </div>
 
@@ -19,11 +19,11 @@
                         <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="text-gray-300"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
                     </div>
                     <div>
-                        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-2">AUGUST 12, 2025</div>
-                        <h3 class="text-2xl font-medium mb-4 group-hover:text-[#FF4438] transition-colors">
-                            Announcing Real Time Prior Authorization at the Point of Conversation
+                        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-2">JANUARY 2024</div>
+                        <h3 class="text-2xl font-medium mb-4 group-hover:text-[#FF8300] transition-colors">
+                            Listen360 Launches AI-Powered Analytics to Streamline Customer Insights
                         </h3>
-                        <div class="text-[10px] font-bold tracking-widest uppercase text-[#FF4438]">READ MORE</div>
+                        <div class="text-[10px] font-bold tracking-widest uppercase text-[#FF8300]">READ MORE</div>
                     </div>
                 </a>
 
@@ -33,11 +33,11 @@
                         <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="text-gray-300"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
                     </div>
                     <div>
-                        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-2">APRIL 29, 2025</div>
-                        <h3 class="text-2xl font-medium mb-4 group-hover:text-[#FF4438] transition-colors">
-                            AltaMed Health Services Corporation Partners with Abridge to Bring Leading AI Technology to Multilingual Communities
+                        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-2">MARCH 2023</div>
+                        <h3 class="text-2xl font-medium mb-4 group-hover:text-[#FF8300] transition-colors">
+                            Listen360 Creates Managed Services Department for Custom Reputation Management
                         </h3>
-                        <div class="text-[10px] font-bold tracking-widest uppercase text-[#FF4438]">READ MORE</div>
+                        <div class="text-[10px] font-bold tracking-widest uppercase text-[#FF8300]">READ MORE</div>
                     </div>
                 </a>
 
@@ -47,11 +47,11 @@
                         <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="text-gray-300"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
                     </div>
                     <div>
-                        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-2">APRIL 10, 2025</div>
-                        <h3 class="text-2xl font-medium mb-4 group-hover:text-[#FF4438] transition-colors">
-                            Sharp HealthCare Chooses Abridge for Clinical Documentation, Enabling Clinicians to Focus on Care—Not Coding
+                        <div class="text-[10px] font-bold tracking-widest uppercase text-gray-500 mb-2">JUNE 2020</div>
+                        <h3 class="text-2xl font-medium mb-4 group-hover:text-[#FF8300] transition-colors">
+                            Listen360 Releases Enhanced Voice of the Customer and Loyalty Reporting for Sentiment Analysis
                         </h3>
-                        <div class="text-[10px] font-bold tracking-widest uppercase text-[#FF4438]">READ MORE</div>
+                        <div class="text-[10px] font-bold tracking-widest uppercase text-[#FF8300]">READ MORE</div>
                     </div>
                 </a>
             </div>
