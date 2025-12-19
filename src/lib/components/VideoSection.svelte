@@ -1,5 +1,5 @@
 <section class="h-[600px] relative overflow-hidden">
-    <img src="/generated/image-diverse-team-of-franchise-employees-coll-1766102290034-5.webp" alt="Franchise team meeting" class="w-full h-full object-cover" />
+    <img src="/generated/image-diverse-team-of-american-and-european-fr-1766103748797-4.webp" alt="Franchise team meeting" class="w-full h-full object-cover" />
     
     <div class="absolute inset-0 bg-gradient-to-r from-black/40 to-transparent"></div>
     

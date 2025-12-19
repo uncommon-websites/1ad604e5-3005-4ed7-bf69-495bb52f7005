@@ -43,17 +43,17 @@
             <!-- Images (Placeholders) -->
             <!-- Top Image (Franchise owner) -->
             <div class="absolute top-0 left-1/3 w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-xl z-20">
-                <img src="/generated/image-professional-franchise-business-owner-re-1766102279100-0.webp" alt="Franchise owner" class="w-full h-full object-cover" />
+                <img src="/generated/image-professional-american-franchise-business-1766103466276-0.webp" alt="Franchise owner" class="w-full h-full object-cover" />
             </div>
 
             <!-- Middle Image (Customer service) -->
             <div class="absolute top-1/3 left-10 w-56 h-64 rounded-lg overflow-hidden border-4 border-white shadow-xl z-20">
-                <img src="/generated/image-friendly-customer-service-representative-1766102281221-1.webp" alt="Customer service" class="w-full h-full object-cover" />
+                <img src="/generated/image-friendly-european-customer-service-repre-1766103470177-1.webp" alt="Customer service" class="w-full h-full object-cover" />
             </div>
 
              <!-- Bottom Right Image (Dashboard/Analytics) -->
              <div class="absolute bottom-10 right-10 w-56 h-56 rounded-full overflow-hidden border-4 border-white shadow-xl z-20">
-                <img src="/generated/image-clean-analytics-dashboard-showing-nps-sc-1766102283505-2.webp" alt="Analytics dashboard" class="w-full h-full object-cover" />
+                <img src="/generated/image-clean-modern-laptop-screen-displaying-np-1766103473239-2.webp" alt="Analytics dashboard" class="w-full h-full object-cover" />
             </div>
 
             <!-- Geometric Accents -->

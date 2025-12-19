@@ -27,11 +27,78 @@
     <div class="grid lg:grid-cols-2 gap-16 items-center">
         <!-- Left Grid of Faces -->
         <div class="grid grid-cols-6 gap-2 opacity-50">
-            {#each Array(24) as _, i}
-                <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
-                    <img src={`https://i.pravatar.cc/150?img=${i + 10}`} alt="Face" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
-                </div>
-            {/each}
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-woman-in-her-30s-natural-smile--1766102994687-0.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-man-in-his-40s-friendly-express-1766102999272-1.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-woman-in-her-50s-confident-smil-1766103002947-2.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-man-in-his-20s-approachable-smi-1766103007202-3.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-woman-in-her-40s-warm-expressio-1766103010615-4.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-man-in-his-30s-genuine-smile-pr-1766103013458-5.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-man-in-his-50s-confident-expres-1766103016401-6.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-woman-in-her-30s-friendly-smile-1766103019892-7.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-man-in-his-60s-wise-expression--1766103144045-0.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-woman-in-her-20s-bright-smile-m-1766103147508-1.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-woman-in-her-40s-professional-s-1766103149882-2.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-man-in-his-50s-approachable-exp-1766103153214-3.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-woman-in-her-50s-professional-s-1766103574032-0.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-man-in-her-20s-cheerful-look-ca-1766103578108-1.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-man-in-his-40s-warm-expression--1766103580343-2.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-woman-in-her-30s-genuine-smile--1766103583142-3.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-woman-in-her-40s-confident-look-1766103586124-4.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-man-in-his-50s-distinguished-sm-1766103589412-5.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-man-in-his-30s-friendly-express-1766103514572-0.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-woman-in-her-20s-bright-smile-m-1766103518144-1.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-woman-in-her-50s-warm-demeanor--1766103521280-2.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-man-in-his-40s-approachable-exp-1766103523956-3.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-american-man-in-his-20s-energetic-smile--1766103526543-4.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
+            <div class="aspect-square bg-gray-200 overflow-hidden rounded-sm">
+                <img src="/generated/image-european-woman-in-her-40s-professional-s-1766103529170-5.webp" alt="Customer" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+            </div>
         </div>
 
         <!-- Right Content -->
